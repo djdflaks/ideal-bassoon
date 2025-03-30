@@ -2333,3 +2333,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 14:26:34.341] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [30Mar2025 14:26:34.341] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [30Mar2025 14:28:15.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -8.387176490091264,-1.5800000131130219,-5.93945345119316
+[30Mar2025 14:28:35.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[30Mar2025 14:28:35.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[30Mar2025 14:29:13.621] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70d2fdd1
+[30Mar2025 14:29:13.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:49747] logged in with entity id 1514 at (-235.65358427130795, 70.0, 57.30506557231282)
+[30Mar2025 14:29:13.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[30Mar2025 14:29:13.656] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95)
+[30Mar2025 14:30:21.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Spider
+[30Mar2025 14:30:33.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Flancito0_ a server operator
+[30Mar2025 14:31:08.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[30Mar2025 14:32:44.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[30Mar2025 14:32:44.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[30Mar2025 14:38:10.712] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@aeb335b
+[30Mar2025 14:38:10.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:41797] logged in with entity id 2243 at (14.3473053491214, 70.0, 40.65211456629575)
+[30Mar2025 14:38:10.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[30Mar2025 14:38:10.760] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95)
+[30Mar2025 14:38:59.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -9.84721299077004,0.0,3.7894860306346914
