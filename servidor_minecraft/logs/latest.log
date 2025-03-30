@@ -810,3 +810,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 20:06:52.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Suit Up]
 [30Mar2025 20:09:07.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Dragon Commander]
 [30Mar2025 20:11:32.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set the time to 1000]
+[30Mar2025 20:15:15.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Ice Dragon
+[30Mar2025 20:15:23.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[30Mar2025 20:15:25.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/15344, l='ServerLevel[world]', x=957.99, y=107.94, z=483.47] died, message: 'Nitwit was turned to ice by Ice Dragon'
+[30Mar2025 20:15:25.467] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/15345, l='ServerLevel[world]', x=958.19, y=107.94, z=482.86] died, message: 'Weaponsmith was turned to ice by Ice Dragon'
+[30Mar2025 20:15:37.561] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/15346, l='ServerLevel[world]', x=957.96, y=110.94, z=485.14] died, message: 'Weaponsmith was slain by Ice Dragon'
+[30Mar2025 20:17:11.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[30Mar2025 20:20:24.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell from a high place
+[30Mar2025 20:20:36.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 1189.500000, 55.500000, 574.500000]

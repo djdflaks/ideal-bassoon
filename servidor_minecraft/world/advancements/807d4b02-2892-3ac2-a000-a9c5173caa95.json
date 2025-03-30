@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-03-30 20:13:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-03-30 14:57:39 +0000"
@@ -432,6 +438,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-30 20:11:20 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-03-30 20:10:33 +0000"
@@ -465,6 +477,18 @@
   "immersive_melodies:misc/instruments": {
     "criteria": {
       "has_item": "2025-03-30 19:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-03-30 20:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-03-30 20:13:07 +0000"
     },
     "done": true
   },
@@ -597,6 +621,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-30 20:00:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-03-30 20:13:07 +0000"
     },
     "done": true
   },
@@ -798,6 +828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-03-30 20:13:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-03-30 14:58:33 +0000"
@@ -819,6 +855,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-03-30 20:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-30 20:11:20 +0000"
     },
     "done": true
   },
@@ -876,6 +918,18 @@
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-03-30 14:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-30 20:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-30 20:12:48 +0000"
     },
     "done": true
   },
@@ -981,15 +1035,33 @@
     },
     "done": true
   },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-03-30 20:13:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-30 15:01:11 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-03-30 20:11:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2025-03-30 20:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-30 20:11:20 +0000"
     },
     "done": true
   },
@@ -1098,6 +1170,18 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-03-30 19:59:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-30 20:12:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-30 20:11:20 +0000"
     },
     "done": true
   },
@@ -1383,6 +1467,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-03-30 20:13:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2025-03-30 20:06:42 +0000"
@@ -1485,6 +1575,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2025-03-30 20:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-03-30 20:13:07 +0000"
+    },
+    "done": true
+  },
   "statues:axolotl_statue": {
     "criteria": {
       "axolotl_cyan_statue": "2025-03-30 14:48:12 +0000"
@@ -1528,6 +1630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-30 20:12:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-03-30 14:40:05 +0000"
@@ -1539,7 +1647,8 @@
       "minecraft:frozen_river": "2025-03-30 19:55:32 +0000",
       "minecraft:river": "2025-03-30 19:41:24 +0000",
       "minecraft:snowy_plains": "2025-03-30 14:28:21 +0000",
-      "minecraft:ice_spikes": "2025-03-30 14:24:43 +0000"
+      "minecraft:ice_spikes": "2025-03-30 14:24:43 +0000",
+      "minecraft:plains": "2025-03-30 20:19:32 +0000"
     },
     "done": false
   },
@@ -1643,6 +1752,12 @@
     "criteria": {
       "has_recipe": "2025-03-30 14:24:42 +0000",
       "has_compass": "2025-03-30 14:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-03-30 20:13:07 +0000"
     },
     "done": true
   },
@@ -1757,6 +1872,12 @@
   "spartanshields:recipes/spartanshields/silver_basic_shield": {
     "criteria": {
       "has_silver_ingot": "2025-03-30 19:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-30 20:12:48 +0000"
     },
     "done": true
   },
