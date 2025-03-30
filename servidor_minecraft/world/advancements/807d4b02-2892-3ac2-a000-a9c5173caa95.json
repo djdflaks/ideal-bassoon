@@ -11,15 +11,107 @@
     },
     "done": true
   },
-  "betterdeserttemples:root": {
+  "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
-      "always": "2025-03-30 14:24:42 +0000"
+      "has_quartz_pillar": "2025-03-30 14:40:16 +0000"
     },
     "done": true
   },
-  "explorerscompass:explorers_compass_cobweb": {
+  "statues:axolotl_statue": {
     "criteria": {
-      "has_cobweb": "2025-03-30 14:24:42 +0000"
+      "axolotl_cyan_statue": "2025-03-30 14:48:12 +0000"
+    },
+    "done": true
+  },
+  "statues:display_stand": {
+    "criteria": {
+      "display_stand": "2025-03-30 14:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-30 14:40:05 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-03-30 14:24:42 +0000",
+      "has_cracked_stone_bricks": "2025-03-30 14:24:42 +0000"
+    },
+    "done": true
+  },
+  "statues:king_cluck_statue": {
+    "criteria": {
+      "king_cluck_statue": "2025-03-30 14:48:27 +0000"
+    },
+    "done": true
+  },
+  "statues:cat_statue": {
+    "criteria": {
+      "cat_tuxedo_statue": "2025-03-30 14:47:13 +0000"
+    },
+    "done": true
+  },
+  "statues:cat_all_statue": {
+    "criteria": {
+      "cat_tuxedo_statue": "2025-03-30 14:47:13 +0000"
+    },
+    "done": false
+  },
+  "statues:statue_table": {
+    "criteria": {
+      "statue_table": "2025-03-30 14:47:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-03-30 14:45:05 +0000"
+    },
+    "done": true
+  },
+  "statues:warden_statue": {
+    "criteria": {
+      "warden_statue": "2025-03-30 14:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-30 14:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2025-03-30 14:28:21 +0000",
+      "minecraft:ice_spikes": "2025-03-30 14:24:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2025-03-30 14:40:16 +0000"
+    },
+    "done": true
+  },
+  "statues:ghast_statue": {
+    "criteria": {
+      "ghast_statue": "2025-03-30 14:48:17 +0000"
+    },
+    "done": true
+  },
+  "statues:allay_statue": {
+    "criteria": {
+      "allay_statue": "2025-03-30 14:46:17 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-03-30 14:24:42 +0000"
     },
     "done": true
   },
@@ -29,16 +121,69 @@
     },
     "done": true
   },
-  "knight_quest:kq_quest_source": {
+  "statues:axolotl_all_statue": {
     "criteria": {
-      "kq_quest_source": "2025-03-30 14:24:42 +0000"
+      "axolotl_cyan_statue": "2025-03-30 14:48:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-30 14:45:16 +0000"
     },
     "done": true
   },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+  "statues:panda_statue": {
     "criteria": {
-      "has_recipe": "2025-03-30 14:24:42 +0000",
-      "has_cracked_stone_bricks": "2025-03-30 14:24:42 +0000"
+      "panda_angry_statue": "2025-03-30 14:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_pillar": "2025-03-30 14:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_pillar": "2025-03-30 14:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-30 14:40:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-30 14:45:16 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-03-30 14:24:42 +0000"
+    },
+    "done": true
+  },
+  "statues:fox_statue": {
+    "criteria": {
+      "fox_statue": "2025-03-30 14:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-30 14:40:05 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_quest_source": {
+    "criteria": {
+      "kq_quest_source": "2025-03-30 14:24:42 +0000"
     },
     "done": true
   },
@@ -67,12 +212,17 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "statues:panda_all_statue": {
     "criteria": {
-      "minecraft:snowy_plains": "2025-03-30 14:28:21 +0000",
-      "minecraft:ice_spikes": "2025-03-30 14:24:43 +0000"
+      "panda_angry_statue": "2025-03-30 14:47:58 +0000"
     },
     "done": false
+  },
+  "statues:info_statue": {
+    "criteria": {
+      "info_statue": "2025-03-30 14:46:25 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3120
 }
