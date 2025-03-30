@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-03-30 18:15:01 +0000"
+    },
+    "done": true
+  },
   "statues:cat_all_statue": {
     "criteria": {
       "cat_tuxedo_statue": "2025-03-30 14:47:13 +0000"
@@ -714,6 +720,12 @@
   "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
       "has_lava_bucket": "2025-03-30 15:01:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-03-30 18:15:01 +0000"
     },
     "done": true
   },
