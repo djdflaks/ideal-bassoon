@@ -788,3 +788,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 19:26:25.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 4225 chunks (100.00%), Total time: 0:03:24
 [30Mar2025 19:30:30.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell out of the world
 [30Mar2025 19:30:30.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Killed Flancito0_]
+[30Mar2025 19:37:08.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[30Mar2025 19:37:29.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[30Mar2025 19:37:48.939] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 525ee401: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[30Mar2025 19:37:52.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3615ms or 72 ticks behind
+[30Mar2025 19:37:56.579] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 525ee401: RandomSpreadSearchWorker succeeded with 1079 radius, 28 samples
+[30Mar2025 19:47:54.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Partly Mutant Skeleton
+[30Mar2025 19:49:43.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 147.500000, 72.500000, 558.500000]
+[30Mar2025 19:52:28.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 334.500000, 118.500000, 542.500000]
