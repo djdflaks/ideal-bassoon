@@ -2361,3 +2361,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 14:48:12.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Water kitten]
 [30Mar2025 14:48:17.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [The squids from the nether]
 [30Mar2025 14:48:27.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [A royal chicken, who would have thought]
+[30Mar2025 14:50:46.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set the world spawn point to -111, 71, 599 [0.0]]
+[30Mar2025 14:53:29.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Monster Hunter]
+[30Mar2025 14:56:48.516] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aza'/3564, l='ServerLevel[world]', x=65.72, y=112.56, z=446.63] died, message: 'Aza suffocated in a wall'
+[30Mar2025 14:57:09.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[30Mar2025 14:57:25.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set the time to 1000]
+[30Mar2025 14:58:33.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Stone Age]
+[30Mar2025 14:58:51.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Getting an Upgrade]
