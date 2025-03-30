@@ -1,10 +1,4 @@
 {
-  "mca:recipes/building_blocks/headstones": {
-    "criteria": {
-      "has_ingredients": "2025-03-30 14:58:33 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/spartanshields/stone_tower_shield": {
     "criteria": {
       "has_cobblestone": "2025-03-30 14:58:33 +0000"
@@ -119,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-30 19:17:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-03-30 14:45:16 +0000"
@@ -164,6 +164,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-03-30 14:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-30 19:17:51 +0000"
     },
     "done": true
   },
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-03-30 19:17:46 +0000"
+    },
+    "done": true
+  },
   "statues:cat_all_statue": {
     "criteria": {
       "cat_tuxedo_statue": "2025-03-30 14:47:13 +0000"
@@ -278,6 +290,12 @@
   "spartanshields:recipes/spartanshields/obsidian_tower_shield": {
     "criteria": {
       "has_obsidian": "2025-03-30 15:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-30 19:17:51 +0000"
     },
     "done": true
   },
@@ -389,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-30 19:17:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-30 15:02:05 +0000"
@@ -483,6 +507,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-03-30 14:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-30 19:17:51 +0000"
     },
     "done": true
   },
@@ -613,6 +643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-30 19:17:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2025-03-30 14:45:16 +0000"
@@ -711,6 +747,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-30 19:17:51 +0000"
+    },
+    "done": true
+  },
   "statues:statue_table": {
     "criteria": {
       "statue_table": "2025-03-30 14:47:42 +0000"
@@ -735,21 +777,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-03-30 19:17:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-03-30 14:57:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
-      "has_planks": "2025-03-30 14:57:39 +0000"
+      "has_planks": "2025-03-30 19:17:51 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/family_tree": {
+  "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
-      "has_item": "2025-03-30 15:01:42 +0000"
+      "has_planks": "2025-03-30 14:57:39 +0000"
     },
     "done": true
   },
@@ -770,6 +818,12 @@
       "axolotl_cyan_statue": "2025-03-30 14:48:12 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-30 19:17:51 +0000"
+    },
+    "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
