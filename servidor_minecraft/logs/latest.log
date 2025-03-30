@@ -818,3 +818,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 20:17:11.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
 [30Mar2025 20:20:24.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell from a high place
 [30Mar2025 20:20:36.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 1189.500000, 55.500000, 574.500000]
+[30Mar2025 20:27:33.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was impaled on a stalagmite
+[30Mar2025 20:27:42.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 1202.500000, 43.500000, 544.500000]
+[30Mar2025 20:33:57.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has completed the challenge [Quest: Find Three Great Essence]
