@@ -40,6 +40,7 @@
       "minecraft:skeleton": "2025-04-01 21:28:20 +0000",
       "minecraft:spider": "2025-04-01 21:44:21 +0000",
       "minecraft:creeper": "2025-04-01 21:46:23 +0000",
+      "quark:forgotten": "2025-04-01 22:16:46 +0000",
       "minecraft:enderman": "2025-04-01 21:44:43 +0000",
       "minecraft:zombie": "2025-04-01 21:25:57 +0000"
     },
@@ -78,6 +79,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-01 21:17:10 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-04-01 22:16:51 +0000"
     },
     "done": true
   },

@@ -5377,3 +5377,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 22:07:19.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Apr2025 22:08:23.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Forgotten
 [01Apr2025 22:08:31.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 16.500000, -24.500000, -285.500000]
+[01Apr2025 22:12:19.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 22:12:19.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 22:15:40.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was burnt to a crisp whilst fighting Forgotten
+[01Apr2025 22:15:48.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 0.500000, -11.500000, -269.500000]
+[01Apr2025 22:15:57.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Forgotten
+[01Apr2025 22:16:05.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to -3.500000, -13.500000, -277.500000]
+[01Apr2025 22:16:51.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [This Belongs in a Museum]
+[01Apr2025 22:17:19.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 22:17:19.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 22:19:35.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 36.500000, 57.500000, -268.500000]
+[01Apr2025 22:21:15.129] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/146, l='ServerLevel[world]', x=72.30, y=93.77, z=-311.59] died, message: 'Villager was slain by Zombie'
