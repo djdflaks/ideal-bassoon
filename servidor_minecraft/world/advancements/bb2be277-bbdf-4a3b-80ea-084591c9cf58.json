@@ -88,6 +88,12 @@
     },
     "done": true
   },
+  "statues:zombie_statue": {
+    "criteria": {
+      "zombie_statue": "2025-04-01 22:32:14 +0000"
+    },
+    "done": true
+  },
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2025-04-01 22:16:51 +0000"
@@ -96,9 +102,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-04-01 22:36:44 +0000",
+      "minecraft:beach": "2025-04-01 22:38:14 +0000",
       "minecraft:river": "2025-04-01 21:20:27 +0000",
       "minecraft:stony_shore": "2025-04-01 21:17:07 +0000",
-      "minecraft:savanna": "2025-04-01 21:14:19 +0000"
+      "minecraft:ocean": "2025-04-01 22:39:17 +0000",
+      "minecraft:savanna": "2025-04-01 21:14:19 +0000",
+      "minecraft:plains": "2025-04-01 22:36:13 +0000"
     },
     "done": false
   },
@@ -111,6 +121,12 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-04-01 22:32:53 +0000"
     },
     "done": true
   },
@@ -153,6 +169,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-01 21:26:54 +0000"
+    },
+    "done": true
+  },
+  "beautify:candleabras": {
+    "criteria": {
+      "requirement": "2025-04-01 22:31:33 +0000"
     },
     "done": true
   },
