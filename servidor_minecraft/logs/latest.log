@@ -813,3 +813,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 22:16:51.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [This Belongs in a Museum]
 [01Apr2025 22:19:35.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 36.500000, 57.500000, -268.500000]
 [01Apr2025 22:21:15.129] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/146, l='ServerLevel[world]', x=72.30, y=93.77, z=-311.59] died, message: 'Villager was slain by Zombie'
+[01Apr2025 22:24:30.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Suit Up]
