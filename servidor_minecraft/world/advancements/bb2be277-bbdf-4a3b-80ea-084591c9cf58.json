@@ -38,6 +38,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-01 21:28:20 +0000",
+      "minecraft:spider": "2025-04-01 21:44:21 +0000",
+      "minecraft:creeper": "2025-04-01 21:46:23 +0000",
+      "minecraft:enderman": "2025-04-01 21:44:43 +0000",
       "minecraft:zombie": "2025-04-01 21:25:57 +0000"
     },
     "done": false
@@ -101,6 +104,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-01 21:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-01 21:45:29 +0000"
     },
     "done": true
   },

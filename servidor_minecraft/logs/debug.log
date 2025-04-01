@@ -5359,3 +5359,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 21:32:19.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Apr2025 21:37:19.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Apr2025 21:37:19.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 21:42:19.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 21:42:19.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 21:45:29.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Isn't It Iron Pick]
+[01Apr2025 21:47:19.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 21:47:19.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
