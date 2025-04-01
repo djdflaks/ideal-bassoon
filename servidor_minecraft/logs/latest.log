@@ -801,3 +801,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 21:26:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Acquire Hardware]
 [01Apr2025 21:28:11.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Not Today, Thank You]
 [01Apr2025 21:45:29.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Isn't It Iron Pick]
+[01Apr2025 21:52:34.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Zombie
+[01Apr2025 21:52:46.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 55.500000, -23.500000, -194.500000]
+[01Apr2025 21:57:20.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Diamonds!]
