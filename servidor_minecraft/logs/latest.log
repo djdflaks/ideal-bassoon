@@ -828,3 +828,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 22:55:15.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 1791.500000, 72.500000, -773.500000]
 [01Apr2025 22:55:34.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set spawn point to 1794, 71, -776 [0.0] in minecraft:overworld for Flancito0_]
 [01Apr2025 22:55:58.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set the world spawn point to 1834, 69, -823 [0.0]]
+[01Apr2025 23:02:41.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2151, y=140, z=-884} BlockPos{x=2152, y=139, z=-884}
+[01Apr2025 23:02:41.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2147, y=140, z=-883} BlockPos{x=2147, y=139, z=-883}
+[01Apr2025 23:02:44.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2143, y=140, z=-880} BlockPos{x=2143, y=139, z=-879}
+[01Apr2025 23:02:45.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2142, y=140, z=-877} BlockPos{x=2141, y=139, z=-879}
+[01Apr2025 23:02:45.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2140, y=140, z=-877} BlockPos{x=2141, y=139, z=-879}
+[01Apr2025 23:02:46.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2137, y=140, z=-877} BlockPos{x=2139, y=140, z=-878}
+[01Apr2025 23:02:46.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2139, y=141, z=-879} BlockPos{x=2139, y=140, z=-878}
+[01Apr2025 23:02:46.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2138, y=141, z=-879} BlockPos{x=2139, y=140, z=-878}
+[01Apr2025 23:02:52.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2139, y=141, z=-881} BlockPos{x=2139, y=140, z=-881}
+[01Apr2025 23:03:19.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
