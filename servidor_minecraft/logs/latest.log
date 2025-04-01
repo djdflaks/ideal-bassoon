@@ -823,3 +823,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 22:39:35.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 602.500000, 54.500000, -323.500000]
 [01Apr2025 22:39:56.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
 [01Apr2025 22:40:17.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[01Apr2025 22:53:47.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flancito0_> que onda wacho
+[01Apr2025 22:55:08.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell from a high place
+[01Apr2025 22:55:15.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 1791.500000, 72.500000, -773.500000]
+[01Apr2025 22:55:34.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set spawn point to 1794, 71, -776 [0.0] in minecraft:overworld for Flancito0_]
+[01Apr2025 22:55:58.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set the world spawn point to 1834, 69, -823 [0.0]]
