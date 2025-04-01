@@ -804,3 +804,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 21:52:34.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Zombie
 [01Apr2025 21:52:46.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 55.500000, -23.500000, -194.500000]
 [01Apr2025 21:57:20.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Diamonds!]
+[01Apr2025 22:08:23.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Forgotten
+[01Apr2025 22:08:31.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 16.500000, -24.500000, -285.500000]
