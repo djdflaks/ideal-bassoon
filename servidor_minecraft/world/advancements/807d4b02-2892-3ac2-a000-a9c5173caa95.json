@@ -1,7 +1,7 @@
 {
-  "dungeons_arise:wda_root": {
+  "beautify:blinds": {
     "criteria": {
-      "WDA": "2025-04-01 20:39:42 +0000"
+      "requirement": "2025-04-01 20:47:59 +0000"
     },
     "done": true
   },
@@ -17,19 +17,7 @@
     },
     "done": true
   },
-  "explorerscompass:explorers_compass_cobweb": {
-    "criteria": {
-      "has_recipe": "2025-04-01 20:39:42 +0000"
-    },
-    "done": true
-  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_recipe": "2025-04-01 20:39:42 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-04-01 20:39:42 +0000"
     },
@@ -38,6 +26,36 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-04-01 20:39:42 +0000"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2025-04-01 20:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-01 20:47:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-01 20:39:42 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-04-01 20:39:42 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-04-01 20:39:42 +0000"
     },
     "done": true
   },
@@ -55,6 +73,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:stony_shore": "2025-04-01 20:47:44 +0000",
       "minecraft:savanna": "2025-04-01 20:39:43 +0000"
     },
     "done": false
