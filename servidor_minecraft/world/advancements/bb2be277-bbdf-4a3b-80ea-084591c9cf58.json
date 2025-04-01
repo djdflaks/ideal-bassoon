@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-01 21:28:20 +0000",
       "minecraft:zombie": "2025-04-01 21:25:57 +0000"
     },
     "done": false
@@ -142,6 +143,12 @@
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-01 21:28:11 +0000"
     },
     "done": true
   },
