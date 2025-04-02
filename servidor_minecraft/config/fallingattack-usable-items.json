@@ -1,3 +1,5 @@
 {
-    "minecraft:iron_hoe": false
+    "minecraft:iron_hoe": false,
+    "minecraft:diamond_pickaxe": false,
+    "minecraft:diamond_helmet": false
 }

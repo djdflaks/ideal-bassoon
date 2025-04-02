@@ -41,15 +41,33 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-04-02 19:51:51 +0000"
+    },
+    "done": true
+  },
   "statues:sheep_statue": {
     "criteria": {
       "sheep_statue_white": "2025-04-01 21:22:58 +0000"
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-02 19:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-01 21:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-02 19:22:30 +0000"
     },
     "done": true
   },
@@ -86,6 +104,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-04-02 19:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-02 13:59:16 +0000"
@@ -110,6 +134,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-02 20:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-02 20:02:56 +0000"
+    },
+    "done": true
+  },
   "beautify:bookstack": {
     "criteria": {
       "requirement": "2025-04-02 15:03:28 +0000"
@@ -125,6 +161,12 @@
   "beautify:botanist_workbench": {
     "criteria": {
       "requirement": "2025-04-02 14:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-02 20:12:54 +0000"
     },
     "done": true
   },
@@ -161,6 +203,12 @@
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location1": "2025-04-02 15:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-02 20:11:58 +0000"
     },
     "done": true
   },
@@ -234,15 +282,22 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-02 15:34:00 +0000",
+      "minecraft:blaze": "2025-04-02 19:37:30 +0000",
       "minecraft:skeleton": "2025-04-01 21:28:20 +0000",
       "minecraft:vindicator": "2025-04-02 15:33:36 +0000",
       "minecraft:spider": "2025-04-01 21:44:21 +0000",
+      "minecraft:piglin_brute": "2025-04-02 20:12:49 +0000",
       "minecraft:creeper": "2025-04-01 21:46:23 +0000",
       "quark:forgotten": "2025-04-01 22:16:46 +0000",
+      "minecraft:zombified_piglin": "2025-04-02 19:57:29 +0000",
       "minecraft:witch": "2025-04-02 15:21:43 +0000",
+      "minecraft:wither_skeleton": "2025-04-02 19:35:38 +0000",
+      "quark:wraith": "2025-04-02 20:10:00 +0000",
+      "minecraft:piglin": "2025-04-02 20:13:51 +0000",
       "minecraft:enderman": "2025-04-01 21:44:43 +0000",
       "minecraft:stray": "2025-04-02 16:04:11 +0000",
       "minecraft:zombie": "2025-04-01 21:25:57 +0000",
+      "quark:foxhound": "2025-04-02 19:33:54 +0000",
       "minecraft:zombie_villager": "2025-04-02 03:04:52 +0000"
     },
     "done": false
@@ -250,6 +305,18 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2025-04-02 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "statues:statue_table": {
+    "criteria": {
+      "statue_table": "2025-04-02 19:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-02 19:22:30 +0000"
     },
     "done": true
   },
@@ -297,6 +364,16 @@
     },
     "done": false
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-02 20:17:35 +0000",
+      "minecraft:nether_wastes": "2025-04-02 19:22:31 +0000",
+      "minecraft:soul_sand_valley": "2025-04-02 20:09:11 +0000",
+      "minecraft:basalt_deltas": "2025-04-02 19:34:20 +0000",
+      "minecraft:warped_forest": "2025-04-02 19:34:11 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-04-01 21:14:19 +0000"
@@ -330,6 +407,18 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-01 21:17:33 +0000"
+    },
+    "done": true
+  },
+  "statues:player_statue": {
+    "criteria": {
+      "player_statue": "2025-04-02 19:11:26 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-04-02 19:54:20 +0000"
     },
     "done": true
   },
