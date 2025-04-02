@@ -801,3 +801,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Apr2025 02:20:38.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2121.500000, 69.500000, -815.500000]
 [02Apr2025 02:21:30.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2136.500000, 139.500000, -882.500000]
 [02Apr2025 02:40:45.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [What a Deal!]
+[02Apr2025 03:07:18.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[02Apr2025 03:07:35.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[02Apr2025 03:14:15.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Cover Me with Diamonds]
+[02Apr2025 03:20:32.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2134.500000, 139.500000, -882.500000]

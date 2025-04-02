@@ -42,7 +42,8 @@
       "minecraft:creeper": "2025-04-01 21:46:23 +0000",
       "quark:forgotten": "2025-04-01 22:16:46 +0000",
       "minecraft:enderman": "2025-04-01 21:44:43 +0000",
-      "minecraft:zombie": "2025-04-01 21:25:57 +0000"
+      "minecraft:zombie": "2025-04-01 21:25:57 +0000",
+      "minecraft:zombie_villager": "2025-04-02 03:04:52 +0000"
     },
     "done": false
   },
@@ -145,6 +146,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-01 21:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-04-02 03:14:15 +0000"
     },
     "done": true
   },
