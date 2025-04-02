@@ -11,12 +11,6 @@
     },
     "done": true
   },
-  "beautify:frames": {
-    "criteria": {
-      "requirement": "2025-04-01 21:22:59 +0000"
-    },
-    "done": true
-  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-04-01 21:14:19 +0000"
@@ -29,33 +23,9 @@
     },
     "done": true
   },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-04-01 21:14:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-04-01 21:28:20 +0000",
-      "minecraft:spider": "2025-04-01 21:44:21 +0000",
-      "minecraft:creeper": "2025-04-01 21:46:23 +0000",
-      "quark:forgotten": "2025-04-01 22:16:46 +0000",
-      "minecraft:enderman": "2025-04-01 21:44:43 +0000",
-      "minecraft:zombie": "2025-04-01 21:25:57 +0000",
-      "minecraft:zombie_villager": "2025-04-02 03:04:52 +0000"
-    },
-    "done": false
-  },
   "beautify:iron_blinds": {
     "criteria": {
       "requirement": "2025-04-01 21:26:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "salmon": "2025-04-02 03:29:36 +0000"
     },
     "done": true
   },
@@ -65,33 +35,15 @@
     },
     "done": false
   },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-04-01 21:14:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-04-01 22:24:30 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2025-04-01 21:22:19 +0000"
-    },
-    "done": false
-  },
   "statues:sheep_statue": {
     "criteria": {
       "sheep_statue_white": "2025-04-01 21:22:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-04-02 02:40:45 +0000"
     },
     "done": true
   },
@@ -101,31 +53,28 @@
     },
     "done": true
   },
-  "statues:zombie_statue": {
-    "criteria": {
-      "zombie_statue": "2025-04-01 22:32:14 +0000"
-    },
-    "done": true
-  },
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2025-04-01 22:16:51 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/complete_catalogue": {
-    "criteria": {
-      "minecraft:persian": "2025-04-02 03:31:57 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-02 15:30:00 +0000",
+      "minecraft:taiga": "2025-04-02 15:58:53 +0000",
       "minecraft:sunflower_plains": "2025-04-01 22:36:44 +0000",
+      "minecraft:bamboo_jungle": "2025-04-02 15:36:00 +0000",
       "minecraft:beach": "2025-04-01 22:38:14 +0000",
+      "minecraft:dark_forest": "2025-04-02 15:23:03 +0000",
+      "minecraft:sparse_jungle": "2025-04-02 15:32:03 +0000",
       "minecraft:river": "2025-04-01 21:20:27 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-02 15:32:18 +0000",
       "minecraft:stony_shore": "2025-04-01 21:17:07 +0000",
+      "minecraft:forest": "2025-04-02 15:14:59 +0000",
       "minecraft:ocean": "2025-04-01 22:39:17 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-02 15:32:55 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-02 15:22:49 +0000",
       "minecraft:savanna": "2025-04-01 21:14:19 +0000",
       "minecraft:plains": "2025-04-01 22:36:13 +0000"
     },
@@ -137,9 +86,9 @@
     },
     "done": true
   },
-  "betterdeserttemples:root": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "always": "2025-04-01 21:14:19 +0000"
+      "lava_bucket": "2025-04-02 13:59:16 +0000"
     },
     "done": true
   },
@@ -155,15 +104,220 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-04-02 03:14:15 +0000"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2025-04-02 15:03:28 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-04-02 14:13:04 +0000"
+    },
+    "done": true
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2025-04-02 14:13:27 +0000"
+    },
+    "done": true
+  },
+  "beautify:candleabras": {
+    "criteria": {
+      "requirement": "2025-04-01 22:31:33 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-04-02 15:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-01 21:20:05 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-04-02 15:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-01 21:28:11 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "white": "2025-04-02 13:59:58 +0000",
+      "black": "2025-04-02 13:59:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-02 13:45:48 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2025-04-02 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-02 16:04:04 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/candelabra": {
+    "criteria": {
+      "obtain": "2025-04-02 14:13:25 +0000"
+    },
+    "done": true
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-04-01 21:22:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-04-02 15:51:05 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2025-04-02 16:18:00 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-04-02 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-04-02 15:34:00 +0000",
+      "minecraft:skeleton": "2025-04-01 21:28:20 +0000",
+      "minecraft:vindicator": "2025-04-02 15:33:36 +0000",
+      "minecraft:spider": "2025-04-01 21:44:21 +0000",
+      "minecraft:creeper": "2025-04-01 21:46:23 +0000",
+      "quark:forgotten": "2025-04-01 22:16:46 +0000",
+      "minecraft:witch": "2025-04-02 15:21:43 +0000",
+      "minecraft:enderman": "2025-04-01 21:44:43 +0000",
+      "minecraft:stray": "2025-04-02 16:04:11 +0000",
+      "minecraft:zombie": "2025-04-01 21:25:57 +0000",
+      "minecraft:zombie_villager": "2025-04-02 03:04:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-04-02 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-02 14:09:42 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2025-04-02 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-04-02 13:10:35 +0000",
+      "cooked_beef": "2025-04-02 15:23:19 +0000",
+      "bread": "2025-04-01 21:22:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-02 02:40:45 +0000"
+    },
+    "done": true
+  },
+  "statues:zombie_statue": {
+    "criteria": {
+      "zombie_statue": "2025-04-01 22:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:persian": "2025-04-02 03:31:57 +0000"
+    },
+    "done": false
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-01 21:45:29 +0000"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "dungeons_arise:find_infested_temple_map": {
     "criteria": {
-      "diamond_leggings": "2025-04-02 03:14:15 +0000"
+      "find_map": "2025-04-02 16:00:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-04-02 15:59:05 +0000"
     },
     "done": true
   },
@@ -197,33 +351,9 @@
     },
     "done": true
   },
-  "beautify:candleabras": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "requirement": "2025-04-01 22:31:33 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cobweb": {
-    "criteria": {
-      "has_recipe": "2025-04-01 21:14:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-04-01 21:20:05 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_recipe": "2025-04-01 21:14:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-04-01 21:28:11 +0000"
+      "obsidian": "2025-04-02 14:01:26 +0000"
     },
     "done": true
   },
