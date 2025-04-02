@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-04-02 03:29:36 +0000"
+    },
+    "done": true
+  },
   "statues:sheep_all_statue": {
     "criteria": {
       "sheep_statue_white": "2025-04-01 21:22:58 +0000"
@@ -106,6 +112,12 @@
       "get_forgotten_hat": "2025-04-01 22:16:51 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:persian": "2025-04-02 03:31:57 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -224,6 +236,12 @@
   "statues:root": {
     "criteria": {
       "core": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-02 03:31:57 +0000"
     },
     "done": true
   },
