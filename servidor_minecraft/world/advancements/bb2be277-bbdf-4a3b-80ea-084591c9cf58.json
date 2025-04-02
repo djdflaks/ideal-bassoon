@@ -170,12 +170,11 @@
     },
     "done": true
   },
-  "quark:get_all_corundum": {
+  "legendary_monsters:end_root": {
     "criteria": {
-      "white": "2025-04-02 13:59:58 +0000",
-      "black": "2025-04-02 13:59:46 +0000"
+      "custom_test_name": "2025-04-02 12:52:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
@@ -183,11 +182,12 @@
     },
     "done": true
   },
-  "legendary_monsters:end_root": {
+  "quark:get_all_corundum": {
     "criteria": {
-      "custom_test_name": "2025-04-02 12:52:41 +0000"
+      "white": "2025-04-02 13:59:58 +0000",
+      "black": "2025-04-02 13:59:46 +0000"
     },
-    "done": true
+    "done": false
   },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
@@ -259,15 +259,15 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-04-02 14:09:42 +0000"
-    },
-    "done": true
-  },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
       "custom_test_name": "2025-04-02 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-02 14:09:42 +0000"
     },
     "done": true
   },
