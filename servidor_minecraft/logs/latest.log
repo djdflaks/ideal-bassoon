@@ -946,3 +946,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 18:08:14.457] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee71b2ec: RandomSpreadSearchWorker failed with 10021 radius, 2324 samples
 [03Apr2025 18:09:01.130] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee71b2ec: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [03Apr2025 18:09:01.145] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee71b2ec: RandomSpreadSearchWorker succeeded with 150 radius, 1 samples
+[03Apr2025 18:10:48.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [A Voltanic Place]
+[03Apr2025 18:11:31.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Gave 1    [Ender Pearl] to Flancito0_]
+[03Apr2025 18:12:09.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Gave 12    [Ender Pearl] to Flancito0_]
+[03Apr2025 18:13:42.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[03Apr2025 18:14:13.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[03Apr2025 18:14:15.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[03Apr2025 18:14:35.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[03Apr2025 18:17:42.769] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee71b2ec: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[03Apr2025 18:17:42.796] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee71b2ec: RandomSpreadSearchWorker succeeded with 698 radius, 4 samples
+[03Apr2025 18:18:15.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-295, y=33, z=98} BlockPos{x=-296, y=32, z=98}

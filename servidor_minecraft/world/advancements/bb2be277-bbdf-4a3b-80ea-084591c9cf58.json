@@ -480,6 +480,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-04-03 18:10:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-01 21:26:54 +0000"
