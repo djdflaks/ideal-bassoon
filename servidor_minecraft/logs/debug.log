@@ -6219,3 +6219,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 00:29:34.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2114, y=63, z=-805} BlockPos{x=2115, y=62, z=-806}
 [03Apr2025 00:29:44.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2135.500000, 139.500000, -880.500000]
 [03Apr2025 00:30:42.354] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[03Apr2025 00:32:40.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:32:40.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 00:33:19.481] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[03Apr2025 00:33:19.487] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Apr2025 00:33:19.487] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Apr2025 00:33:19.488] [Worker-Main-2/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Apr2025 00:33:19.488] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Apr2025 00:33:19.489] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Apr2025 00:33:19.489] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Apr2025 00:33:19.489] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Apr2025 00:33:19.489] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Apr2025 00:33:19.489] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Apr2025 00:33:19.489] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Apr2025 00:33:19.489] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Apr2025 00:33:19.489] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Apr2025 00:33:19.489] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[03Apr2025 00:33:19.489] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Apr2025 00:33:19.489] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[03Apr2025 00:33:19.760] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[03Apr2025 00:33:19.762] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[03Apr2025 00:33:19.762] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[03Apr2025 00:33:19.764] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[03Apr2025 00:33:19.764] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[03Apr2025 00:33:40.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[03Apr2025 00:34:03.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[03Apr2025 00:35:55.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2131.500000, 139.500000, -880.500000]
+[03Apr2025 00:37:40.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:37:40.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 00:38:40.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2109.500000, 127.500000, -927.500000]

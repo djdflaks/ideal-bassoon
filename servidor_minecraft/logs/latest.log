@@ -1102,3 +1102,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 00:28:55.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2132, y=64, z=-806} BlockPos{x=2133, y=63, z=-806}
 [03Apr2025 00:29:34.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2114, y=63, z=-805} BlockPos{x=2115, y=62, z=-806}
 [03Apr2025 00:29:44.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2135.500000, 139.500000, -880.500000]
+[03Apr2025 00:33:40.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[03Apr2025 00:34:03.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[03Apr2025 00:35:55.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2131.500000, 139.500000, -880.500000]
+[03Apr2025 00:38:40.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2109.500000, 127.500000, -927.500000]
