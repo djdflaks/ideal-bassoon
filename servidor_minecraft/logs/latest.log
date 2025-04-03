@@ -942,3 +942,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 20:13:49.585] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [03Apr2025 20:13:49.586] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [03Apr2025 20:13:52.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6323ms or 126 ticks behind
+[03Apr2025 20:19:44.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1695, y=42, z=5633} BlockPos{x=1686, y=41, z=5625}
+[03Apr2025 20:19:58.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 1636.500000, 65.500000, 5512.500000]
+[03Apr2025 20:25:33.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 1659.500000, 63.500000, 5549.500000]
+[03Apr2025 20:28:28.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Vex
+[03Apr2025 20:28:34.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 1685.500000, 61.500000, 5524.500000]
+[03Apr2025 20:29:04.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has completed the challenge [Hero of the Village]
