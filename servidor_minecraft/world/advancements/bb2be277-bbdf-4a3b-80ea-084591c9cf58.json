@@ -280,6 +280,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-04-03 17:58:27 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-04-02 12:52:41 +0000"
@@ -297,7 +303,9 @@
       "minecraft:pillager": "2025-04-02 15:34:00 +0000",
       "minecraft:blaze": "2025-04-02 19:37:30 +0000",
       "minecraft:skeleton": "2025-04-01 21:28:20 +0000",
+      "minecraft:ghast": "2025-04-03 17:50:51 +0000",
       "minecraft:vindicator": "2025-04-02 15:33:36 +0000",
+      "minecraft:magma_cube": "2025-04-03 17:51:23 +0000",
       "minecraft:spider": "2025-04-01 21:44:21 +0000",
       "minecraft:piglin_brute": "2025-04-02 20:12:49 +0000",
       "minecraft:creeper": "2025-04-01 21:46:23 +0000",
