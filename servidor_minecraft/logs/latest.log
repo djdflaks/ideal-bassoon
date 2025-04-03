@@ -933,3 +933,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 19:51:49.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:41203] logged in with entity id 16 at (2130.930442214277, 139.0, -884.8511861555967)
 [03Apr2025 19:51:49.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
 [03Apr2025 19:51:49.608] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (bb2be277-bbdf-4a3b-80ea-084591c9cf58)
+[03Apr2025 19:59:05.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[03Apr2025 20:02:04.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[03Apr2025 20:06:47.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 1604.500000, 67.500000, 5592.500000]
+[03Apr2025 20:07:01.618] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[03Apr2025 20:07:01.618] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[03Apr2025 20:07:01.645] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
