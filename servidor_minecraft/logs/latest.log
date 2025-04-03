@@ -956,3 +956,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 18:17:42.769] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee71b2ec: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [03Apr2025 18:17:42.796] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee71b2ec: RandomSpreadSearchWorker succeeded with 698 radius, 4 samples
 [03Apr2025 18:18:15.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-295, y=33, z=98} BlockPos{x=-296, y=32, z=98}
+[03Apr2025 18:21:27.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [A Burning Arena]
+[03Apr2025 18:24:07.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [The Imperfect thing]
+[03Apr2025 18:27:09.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[03Apr2025 18:27:10.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[03Apr2025 18:27:28.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[03Apr2025 18:28:17.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[03Apr2025 18:28:28.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[03Apr2025 18:29:41.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/91, l='ServerLevel[world]', x=1827.70, y=93.00, z=-976.00] died, message: 'Botanist fell out of the world'
+[03Apr2025 18:29:41.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/92, l='ServerLevel[world]', x=1832.43, y=99.00, z=-985.46] died, message: 'Villager fell out of the world'
+[03Apr2025 18:29:41.489] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101, l='ServerLevel[world]', x=1753.50, y=64.00, z=-982.50] died, message: 'Villager fell out of the world'
+[03Apr2025 18:29:41.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/110, l='ServerLevel[world]', x=1801.91, y=98.00, z=-992.02] died, message: 'Villager fell out of the world'
+[03Apr2025 18:29:41.491] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/111, l='ServerLevel[world]', x=1800.51, y=98.00, z=-992.00] died, message: 'Villager fell out of the world'
+[03Apr2025 18:29:41.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell out of the world
+[03Apr2025 18:29:41.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Killed 297 entities]
+[03Apr2025 18:29:54.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2129.500000, 139.500000, -885.500000]
+[03Apr2025 18:30:02.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Timed out
+[03Apr2025 18:30:02.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[03Apr2025 18:30:02.288] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Apr2025 18:30:08.337] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Flancito0_ is bb2be277-bbdf-4a3b-80ea-084591c9cf58
+[03Apr2025 18:30:11.393] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@381b0937
+[03Apr2025 18:30:11.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:39291] logged in with entity id 20384 at (2129.5, 139.5, -885.5)
+[03Apr2025 18:30:11.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[03Apr2025 18:30:11.425] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (bb2be277-bbdf-4a3b-80ea-084591c9cf58)
+[03Apr2025 18:30:50.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 297.500000, 65.500000, 94.500000]
+[03Apr2025 18:31:18.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[03Apr2025 18:36:35.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[03Apr2025 18:36:55.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[03Apr2025 18:37:10.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Ignis
+[03Apr2025 18:37:19.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2122.500000, 139.500000, -885.500000]
+[03Apr2025 18:37:47.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[03Apr2025 18:37:51.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 273.500000, 65.500000, 81.500000]
+[03Apr2025 18:37:57.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[03Apr2025 18:38:08.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Ignis
+[03Apr2025 18:38:20.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2117.500000, 139.500000, -892.500000]
+[03Apr2025 18:38:36.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell out of the world
+[03Apr2025 18:38:36.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Killed 319 entities]
+[03Apr2025 18:38:51.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2131.500000, 139.500000, -888.500000]
+[03Apr2025 18:39:08.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 258.500000, 69.500000, 87.500000]

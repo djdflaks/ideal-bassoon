@@ -195,6 +195,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-04-03 18:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-01 21:20:05 +0000"
@@ -216,6 +222,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-04-02 20:11:58 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-04-03 18:21:27 +0000"
     },
     "done": true
   },
