@@ -994,3 +994,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 18:38:36.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Killed 319 entities]
 [03Apr2025 18:38:51.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2131.500000, 139.500000, -888.500000]
 [03Apr2025 18:39:08.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 258.500000, 69.500000, 87.500000]
+[03Apr2025 18:40:52.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 261.500000, 101.500000, -99.500000]
+[03Apr2025 18:42:59.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Gave 100 experience points to Flancito0_]
+[03Apr2025 18:43:03.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Gave 1000 experience points to Flancito0_]
+[03Apr2025 18:43:05.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Gave 1000 experience points to Flancito0_]
