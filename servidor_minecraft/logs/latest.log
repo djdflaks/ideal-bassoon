@@ -924,3 +924,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 16:57:09.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:40485] logged in with entity id 142 at (2138.2962145133065, 139.0, -884.8176625746975)
 [03Apr2025 16:57:09.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
 [03Apr2025 16:57:09.178] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (bb2be277-bbdf-4a3b-80ea-084591c9cf58)
+[03Apr2025 17:35:02.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Gave 5    [Slime Spawn Egg] to Flancito0_]
+[03Apr2025 17:35:11.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Gave 5    [Slime Spawn Egg] to Flancito0_]
+[03Apr2025 17:35:28.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2005.500000, 69.500000, -876.500000]
+[03Apr2025 17:38:03.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2129.500000, 139.500000, -883.500000]

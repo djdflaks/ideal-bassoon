@@ -6050,3 +6050,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 17:19:59.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Apr2025 17:24:59.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Apr2025 17:24:59.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 17:29:59.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 17:29:59.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 17:34:59.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 17:34:59.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 17:35:02.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Gave 5    [Slime Spawn Egg] to Flancito0_]
+[03Apr2025 17:35:11.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Gave 5    [Slime Spawn Egg] to Flancito0_]
+[03Apr2025 17:35:28.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2005.500000, 69.500000, -876.500000]
+[03Apr2025 17:38:03.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2129.500000, 139.500000, -883.500000]
