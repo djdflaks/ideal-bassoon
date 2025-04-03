@@ -934,3 +934,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 01:24:30.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2141.500000, 139.500000, -884.500000]
 [03Apr2025 01:25:11.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
 [03Apr2025 01:25:57.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[03Apr2025 01:40:16.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=211, y=23, z=-99} BlockPos{x=211, y=22, z=-99}
+[03Apr2025 01:45:16.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=16, z=-85} BlockPos{x=27, y=15, z=-86}
