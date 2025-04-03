@@ -35,6 +35,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-04-03 20:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-04-01 22:24:30 +0000"
