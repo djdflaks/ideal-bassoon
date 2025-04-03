@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-03 22:13:27 +0000"
+    },
+    "done": true
+  },
   "beautify:iron_blinds": {
     "criteria": {
       "requirement": "2025-04-01 21:26:54 +0000"
@@ -312,6 +318,12 @@
     },
     "done": true
   },
+  "statues:enderman_statue": {
+    "criteria": {
+      "enderman_statue": "2025-04-03 22:22:51 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_lava_eater": {
     "criteria": {
       "ambusher": "2025-04-03 17:58:27 +0000"
@@ -417,6 +429,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-04-02 02:40:45 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_warped_fungussus": {
+    "criteria": {
+      "fungussus": "2025-04-03 22:20:56 +0000"
     },
     "done": true
   },
