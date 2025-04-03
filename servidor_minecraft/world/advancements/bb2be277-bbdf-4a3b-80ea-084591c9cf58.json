@@ -219,6 +219,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-04-03 22:06:08 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-04-01 21:14:19 +0000"

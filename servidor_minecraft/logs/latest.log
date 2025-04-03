@@ -926,3 +926,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 21:58:38.156] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (bb2be277-bbdf-4a3b-80ea-084591c9cf58)
 [03Apr2025 21:58:59.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set the world spawn point to 2136, 139, -886 [0.0]]
 [03Apr2025 22:06:08.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [A Seedy Place]
+[03Apr2025 22:13:27.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Who is Cutting Onions?]
