@@ -928,3 +928,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 17:35:11.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Gave 5    [Slime Spawn Egg] to Flancito0_]
 [03Apr2025 17:35:28.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2005.500000, 69.500000, -876.500000]
 [03Apr2025 17:38:03.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2129.500000, 139.500000, -883.500000]
+[03Apr2025 17:43:10.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Voluntary Exile]
+[03Apr2025 17:43:34.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2168.500000, 106.500000, -741.500000]
+[03Apr2025 17:44:24.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2346.500000, 75.500000, -738.500000]
+[03Apr2025 17:44:54.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2113.500000, 139.500000, -876.500000]
