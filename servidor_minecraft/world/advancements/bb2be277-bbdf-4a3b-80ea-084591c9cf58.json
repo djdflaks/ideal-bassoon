@@ -292,6 +292,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-04-03 18:07:04 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-04-01 21:14:19 +0000"
@@ -429,6 +435,12 @@
   "dungeons_arise:find_monasteries": {
     "criteria": {
       "location0": "2025-04-02 15:59:05 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_skeletosaurus": {
+    "criteria": {
+      "skeletosaurus": "2025-04-03 18:03:59 +0000"
     },
     "done": true
   },

@@ -6100,3 +6100,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 17:59:20.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 24.500000, 49.500000, 71.500000]
 [03Apr2025 17:59:59.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Apr2025 17:59:59.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 18:02:21.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to -224.500000, 47.500000, 34.500000]
+[03Apr2025 18:03:59.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has completed the challenge [The Ancient Skeleton]
+[03Apr2025 18:04:59.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 18:04:59.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 18:07:04.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Long Time Ago]
+[03Apr2025 18:08:14.172] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee71b2ec: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[03Apr2025 18:08:14.457] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee71b2ec: RandomSpreadSearchWorker failed with 10021 radius, 2324 samples
+[03Apr2025 18:09:01.130] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee71b2ec: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[03Apr2025 18:09:01.145] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee71b2ec: RandomSpreadSearchWorker succeeded with 150 radius, 1 samples
+[03Apr2025 18:09:59.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 18:09:59.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
