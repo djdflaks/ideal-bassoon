@@ -930,3 +930,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 18:15:31.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
 [04Apr2025 18:15:31.802] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (bb2be277-bbdf-4a3b-80ea-084591c9cf58)
 [04Apr2025 18:16:27.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Removed every effect from Flancito0_]
+[04Apr2025 18:25:47.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to -523.500000, 53.500000, 216.500000]
+[04Apr2025 18:27:27.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 261.500000, 101.500000, -99.500000]
+[04Apr2025 18:28:19.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[04Apr2025 18:28:30.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[04Apr2025 18:29:45.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 317.500000, 41.500000, 52.500000]
+[04Apr2025 18:30:33.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Applied effect Strength to Flancito0_]
+[04Apr2025 18:30:39.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Applied effect Strength to Flancito0_]
+[04Apr2025 18:31:12.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Applied effect Regeneration to Flancito0_]
+[04Apr2025 18:31:26.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Applied effect Health Boost to Flancito0_]
+[04Apr2025 18:31:37.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
