@@ -983,3 +983,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 18:45:52.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
 [04Apr2025 18:47:35.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Removed every effect from Flancito0_]
 [04Apr2025 18:49:40.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 261.500000, 101.500000, -99.500000]
+[04Apr2025 18:53:35.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2131.500000, 79.500000, -820.500000]
+[04Apr2025 19:01:24.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has completed the challenge [It Spreads]
+[04Apr2025 19:01:58.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Sneak 100]
