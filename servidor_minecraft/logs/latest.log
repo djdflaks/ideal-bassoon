@@ -986,3 +986,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 18:53:35.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2131.500000, 79.500000, -820.500000]
 [04Apr2025 19:01:24.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has completed the challenge [It Spreads]
 [04Apr2025 19:01:58.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Sneak 100]
+[04Apr2025 19:09:37.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2088, y=-37, z=-879} BlockPos{x=2088, y=-38, z=-880}
+[04Apr2025 19:10:31.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2076, y=-24, z=-916} BlockPos{x=2077, y=-26, z=-914}
+[04Apr2025 19:11:04.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2101, y=-28, z=-891} BlockPos{x=2101, y=-29, z=-891}
+[04Apr2025 19:12:18.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2136.500000, 139.500000, -881.500000]
