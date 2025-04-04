@@ -41,6 +41,18 @@
     },
     "done": false
   },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-04-03 23:00:56 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-04-03 23:39:08 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-04-03 20:09:56 +0000"
@@ -77,6 +89,12 @@
     },
     "done": true
   },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-04-03 23:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-02 19:22:30 +0000"
@@ -89,19 +107,34 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-04 00:02:14 +0000"
+    },
+    "done": true
+  },
   "beautify:lamps": {
     "criteria": {
       "requirement": "2025-04-03 00:59:59 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-03 23:16:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-02 15:30:00 +0000",
       "minecraft:taiga": "2025-04-02 15:58:53 +0000",
+      "minecraft:eroded_badlands": "2025-04-03 23:08:12 +0000",
       "minecraft:sunflower_plains": "2025-04-01 22:36:44 +0000",
       "minecraft:windswept_hills": "2025-04-03 17:44:25 +0000",
       "minecraft:bamboo_jungle": "2025-04-02 15:36:00 +0000",
+      "minecraft:wooded_badlands": "2025-04-03 23:16:22 +0000",
+      "minecraft:badlands": "2025-04-03 23:08:58 +0000",
       "minecraft:beach": "2025-04-01 22:38:14 +0000",
       "minecraft:dark_forest": "2025-04-02 15:23:03 +0000",
       "minecraft:sparse_jungle": "2025-04-02 15:32:03 +0000",
@@ -109,7 +142,9 @@
       "minecraft:lukewarm_ocean": "2025-04-02 15:32:18 +0000",
       "minecraft:stony_shore": "2025-04-01 21:17:07 +0000",
       "minecraft:forest": "2025-04-02 15:14:59 +0000",
+      "minecraft:desert": "2025-04-03 22:47:59 +0000",
       "minecraft:ocean": "2025-04-01 22:39:17 +0000",
+      "minecraft:warm_ocean": "2025-04-03 23:06:46 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-02 15:32:55 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-02 15:22:49 +0000",
       "minecraft:savanna": "2025-04-01 21:14:19 +0000",
@@ -192,6 +227,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-04-02 20:12:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-04-03 23:33:28 +0000"
     },
     "done": true
   },
@@ -294,6 +335,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-03 22:58:16 +0000"
+    },
+    "done": false
+  },
   "beautify:progression/candelabra": {
     "criteria": {
       "obtain": "2025-04-02 14:13:25 +0000"
@@ -321,6 +368,12 @@
   "statues:enderman_statue": {
     "criteria": {
       "enderman_statue": "2025-04-03 22:22:51 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-04-04 00:07:05 +0000"
     },
     "done": true
   },
@@ -365,6 +418,7 @@
       "minecraft:zombified_piglin": "2025-04-02 19:57:29 +0000",
       "minecraft:witch": "2025-04-02 15:21:43 +0000",
       "minecraft:wither_skeleton": "2025-04-02 19:35:38 +0000",
+      "minecraft:husk": "2025-04-03 22:54:35 +0000",
       "quark:wraith": "2025-04-02 20:10:00 +0000",
       "minecraft:piglin": "2025-04-02 20:13:51 +0000",
       "minecraft:enderman": "2025-04-01 21:44:43 +0000",
@@ -421,6 +475,7 @@
       "potato": "2025-04-03 01:30:48 +0000",
       "poisonous_potato": "2025-04-03 02:08:25 +0000",
       "bread": "2025-04-01 21:22:19 +0000",
+      "golden_apple": "2025-04-03 23:31:39 +0000",
       "rotten_flesh": "2025-04-03 17:05:46 +0000",
       "golden_carrot": "2025-04-03 02:08:40 +0000"
     },
@@ -541,6 +596,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-01 21:26:54 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-03 22:58:16 +0000"
     },
     "done": true
   },
