@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-04-05 14:33:27 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_burning_arena": {
     "criteria": {
       "arena": "2025-04-03 18:21:27 +0000"
