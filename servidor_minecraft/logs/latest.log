@@ -1005,3 +1005,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 13:37:55.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
 [05Apr2025 13:37:55.927] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (bb2be277-bbdf-4a3b-80ea-084591c9cf58)
 [05Apr2025 14:06:21.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [It won't blow up this time]
+[05Apr2025 14:17:32.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=231, y=98, z=-161} BlockPos{x=231, y=99, z=-160}
+[05Apr2025 14:19:41.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=205, y=73, z=-54} BlockPos{x=205, y=72, z=-54}
+[05Apr2025 14:19:41.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=205, y=73, z=-54} BlockPos{x=205, y=72, z=-54}
