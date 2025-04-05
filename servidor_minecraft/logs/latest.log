@@ -1004,3 +1004,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 13:37:55.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:47573] logged in with entity id 173 at (2126.633232170656, 139.0, -886.2417001710213)
 [05Apr2025 13:37:55.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
 [05Apr2025 13:37:55.927] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (bb2be277-bbdf-4a3b-80ea-084591c9cf58)
+[05Apr2025 14:06:21.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [It won't blow up this time]

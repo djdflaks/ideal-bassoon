@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "statues:creeper_statue": {
+    "criteria": {
+      "creeper_statue": "2025-04-05 14:06:21 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_remnant": {
     "criteria": {
       "ignis": "2025-04-03 23:39:08 +0000"
