@@ -6119,3 +6119,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 13:38:11.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Apr2025 13:38:30.749] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [05Apr2025 13:38:40.344] [Server thread/DEBUG] [mixin/]: Mixing PotionUtilsMixin from quark.mixins.json into net.minecraft.world.item.alchemy.PotionUtils
+[05Apr2025 13:43:11.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 13:43:11.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 13:48:11.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 13:48:11.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
