@@ -1014,3 +1014,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 14:33:27.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Oh Shiny]
 [05Apr2025 15:02:16.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
 [05Apr2025 15:03:22.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[05Apr2025 16:03:30.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [Hired Help]
+[05Apr2025 16:09:41.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2130.500000, 144.500000, -890.500000]

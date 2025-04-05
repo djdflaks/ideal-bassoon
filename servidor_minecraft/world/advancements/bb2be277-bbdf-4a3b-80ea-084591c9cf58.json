@@ -282,6 +282,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-04-05 16:03:30 +0000"
+    },
+    "done": true
+  },
   "statues:player_statue": {
     "criteria": {
       "player_statue": "2025-04-02 19:11:26 +0000"
