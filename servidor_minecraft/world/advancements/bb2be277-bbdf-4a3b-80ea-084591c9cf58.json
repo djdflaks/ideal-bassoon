@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "statues:pillager_statue": {
+    "criteria": {
+      "pillager_statue": "2025-04-05 03:13:57 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location1": "2025-04-02 15:32:55 +0000"
@@ -365,6 +371,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-04-05 03:13:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-02 15:30:00 +0000",
@@ -381,6 +393,8 @@
       "minecraft:river": "2025-04-01 21:20:27 +0000",
       "minecraft:lukewarm_ocean": "2025-04-02 15:32:18 +0000",
       "minecraft:stony_shore": "2025-04-01 21:17:07 +0000",
+      "minecraft:swamp": "2025-04-05 03:12:26 +0000",
+      "minecraft:cold_ocean": "2025-04-05 03:11:56 +0000",
       "minecraft:forest": "2025-04-02 15:14:59 +0000",
       "minecraft:desert": "2025-04-03 22:47:59 +0000",
       "minecraft:ocean": "2025-04-01 22:39:17 +0000",
@@ -529,6 +543,7 @@
       "minecraft:piglin": "2025-04-02 20:13:51 +0000",
       "minecraft:enderman": "2025-04-01 21:44:43 +0000",
       "minecraft:stray": "2025-04-02 16:04:11 +0000",
+      "minecraft:silverfish": "2025-04-05 03:15:38 +0000",
       "minecraft:vex": "2025-04-03 20:29:06 +0000",
       "minecraft:zombie": "2025-04-01 21:25:57 +0000",
       "quark:foxhound": "2025-04-02 19:33:54 +0000",
