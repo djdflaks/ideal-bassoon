@@ -234,6 +234,12 @@
     },
     "done": false
   },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-04-05 04:20:44 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_warped_fungussus": {
     "criteria": {
       "fungussus": "2025-04-03 22:20:56 +0000"
