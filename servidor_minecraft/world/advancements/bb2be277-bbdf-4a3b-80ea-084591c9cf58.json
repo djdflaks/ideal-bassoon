@@ -1,4 +1,10 @@
 {
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-04-05 04:10:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-04-03 22:13:27 +0000"
