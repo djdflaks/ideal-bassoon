@@ -1013,3 +1013,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 04:25:44.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
 [05Apr2025 04:26:31.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 2136.500000, 139.500000, -884.500000]
 [05Apr2025 04:30:11.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Removed every effect from Flancito0_]
+[05Apr2025 04:36:02.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Gave 15    [Tropical Fish] to Flancito0_]
