@@ -160,9 +160,16 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-04-05 04:03:28 +0000",
       "in_better_spider_dungeon": "2025-04-03 22:58:16 +0000"
     },
     "done": false
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-05 04:03:28 +0000"
+    },
+    "done": true
   },
   "beautify:frames": {
     "criteria": {
@@ -408,10 +415,13 @@
       "minecraft:swamp": "2025-04-05 03:12:26 +0000",
       "minecraft:cold_ocean": "2025-04-05 03:11:56 +0000",
       "minecraft:forest": "2025-04-02 15:14:59 +0000",
+      "minecraft:lush_caves": "2025-04-05 04:05:03 +0000",
       "minecraft:desert": "2025-04-03 22:47:59 +0000",
       "minecraft:ocean": "2025-04-01 22:39:17 +0000",
+      "minecraft:windswept_savanna": "2025-04-05 03:59:42 +0000",
       "minecraft:warm_ocean": "2025-04-03 23:06:46 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-02 15:32:55 +0000",
+      "minecraft:flower_forest": "2025-04-05 04:00:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-02 15:22:49 +0000",
       "minecraft:savanna": "2025-04-01 21:14:19 +0000",
       "minecraft:plains": "2025-04-01 22:36:13 +0000"
