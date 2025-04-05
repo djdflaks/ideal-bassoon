@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-05 03:24:02 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-04-01 21:14:19 +0000"
@@ -487,6 +493,12 @@
   "beautify:progression/candelabra": {
     "criteria": {
       "obtain": "2025-04-02 14:13:25 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-04-05 03:18:15 +0000"
     },
     "done": true
   },
