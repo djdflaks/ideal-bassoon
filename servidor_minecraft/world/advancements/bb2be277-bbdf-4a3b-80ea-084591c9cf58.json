@@ -182,6 +182,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-04-05 03:34:03 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_skeletosaurus_nest": {
     "criteria": {
       "nest": "2025-04-03 18:07:04 +0000"
